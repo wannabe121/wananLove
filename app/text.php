@@ -1,2 +1,4 @@
 <?php
-ClosedGeneratorException::class;
+echo 123;
+echo 123;
+echo 123;
